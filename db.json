@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": "4fee",
+      "productCode": "PROD - 0001",
+      "name": "Paracetamol",
+      "title": "Thuốc Giảm Đau",
+      "genreId": "1",
+      "price": 1000,
+      "importDate": "2024-09-20",
+      "quantity": 3
+    },
+    {
+      "id": "5abc",
+      "productCode": "PROD - 0002",
+      "name": "Ibuprofen",
+      "title": "Thuốc Kháng Viêm",
+      "genreId": "1",
+      "price": 1500,
+      "importDate": "2024-09-22",
+      "quantity": 10
+    },
+    {
+      "id": "6xyz",
+      "productCode": "PROD - 0003",
+      "name": "Amoxicillin",
+      "title": "Kháng Sinh",
+      "genreId": "1",
+      "price": 2000,
+      "importDate": "2024-09-25",
+      "quantity": 5
+    },
+    {
+      "id": "4edb",
+      "productCode": "PROD - 0004",
+      "name": "thuốc",
+      "title": "thuốc kháng sinh",
+      "genreId": "6",
+      "price": 1000,
+      "importDate": "2024-09-26",
+      "quantity": 100
+    }
+  ],
+  "genre": [
+    {
+      "id": "1",
+      "name": "Thuốc",
+      "title": "Sản phẩm thuốc"
+    },
+    {
+      "id": "2",
+      "name": "Vitamin",
+      "title": "Sản phẩm vitamin"
+    },
+    {
+      "id": "3",
+      "name": "Thực Phẩm Chức Năng",
+      "title": "Sản phẩm chức năng"
+    },
+    {
+      "id": "4",
+      "name": "Thực Phẩm",
+      "title": "Sản phẩm thực phẩm"
+    },
+    {
+      "id": "5",
+      "name": "Thảo Dược",
+      "title": "Sản phẩm thảo dược"
+    },
+    {
+      "id": "6",
+      "name": "Dược Phẩm",
+      "title": "Sản phẩm dược phẩm"
+    }
+  ]
+}
