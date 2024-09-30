@@ -9,10 +9,9 @@ export default function SearchResults() {
 
     return (
         <div className="container mt-4">
-            <h2>Kết quả tìm kiếm cho: "{searchTerm} "{genreName}" </h2>
+            <h2>Kết quả tìm kiếm cho{searchTerm}: {genreName} </h2>
             {filteredProduct.length > 0 ? (
                 <div>
-                    <h1>Danh Sách Sản Phẩm</h1>
                     <Link to='/' className="btn btn-primary mb-3">Quay lại Danh sách Sản Phẩm</Link>
                     <table className="table table-striped">
                         <thead>
